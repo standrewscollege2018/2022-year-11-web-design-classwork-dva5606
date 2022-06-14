@@ -60,17 +60,3 @@ a:visited {
 .europe {
   margin: 30px 0px 0px 0px;
 }
-.card_center {
-  align-self: left
-  border: 20px;
-  border-radius: 20px;
-  border-color: rgb(0, 0, 0);
-  border: solid;
-  background-color: rgb(228, 228, 228);
-  margin: 0px 0px 0px 550px;
-}
-.card_center > img {
-  max-width: 100%;
-  height: auto;
-  margin: 0px 0px 0px 0px;
-}
